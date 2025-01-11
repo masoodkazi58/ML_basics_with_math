@@ -25,5 +25,7 @@ The goal is to find a straight line that best fits the data points, allowing us 
 #### Tools
 - jupyter notebook
 - Scikit learning ibrary
+- seabon for visualization
+- pandas and numpy
 
 
